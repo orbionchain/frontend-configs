@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Orbion Mainnet",
+		"url": "https://mainnet.orbionchain.com",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ink.svg",
+		"isActive": true
+	},
+	{
+		"title": "Orbion Sepolia",
+		"url": "https://testnet.orbionchain.com",
+		"group": "Testnet",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ink.svg"
+	}
+]
