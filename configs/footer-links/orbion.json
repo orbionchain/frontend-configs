@@ -1,56 +1,50 @@
-[
-  {
-    "title": "Welcome Orbion",
+[{
+		"title": "Welcome Orbion",
+		"links": [{
+				"text": "Orbion Network",
+				"url": "https://orbionchain.com"
+			},
+			{
+				"text": "Orbion Finance",
+				"url": "https://orbion.finance"
+			},
+			{
+				"text": "Orbion Pad",
+				"url": "https://orbionchain.com"
+			},
+			{
+				"text": "Orbion Social",
+				"url": "https://orbionchain.com"
+			}
+		]
+	},
+	{
+		"title": "Orbion Page",
+		"links": [{
+				"text": "Documentation",
+				"url": "https://docs.orbionchain.com/"
+			},
+			{
+				"text": "Validator",
+				"url": "https://docs.orbionchain.com/network/validator-setup"
+			},
+			{
+				"text": "SDK",
+				"url": "https://docs.orbionchain.com/ecosystem/orbion-sdk-and-api"
+			},
+			{
+				"text": "Service Status",
+				"url": "https://status.orbionchain.com/"
+			}
+		]
+	},
+
+    {
+    "title": "Apps & Intergrations",
     "links": [
       {
-        "text": "Orbion Network",
-        "url": "https://orbionchain.com"
-      },
-      {
-        "text": "Orbion Finance",
+        "text": "Defi Apps",
         "url": "https://orbion.finance"
-      },
-      {
-        "text": "Orbion Pad",
-        "url": "https://orbionpad.orbion.finance"
-      },
-      {
-        "text": "Orbion AI",
-        "url": "http://ai.orbionchain.com"
-      },
-      {
-        "text": "Orbion Social",
-        "url": "https://orbionchain.com"
-      }
-    ]
-  },
-  {
-    "title": "Orbion Page",
-    "links": [
-      {
-        "text": "Documentation",
-        "url": "https://docs.orbionchain.com/"
-      },
-      {
-        "text": "Validator",
-        "url": "https://docs.orbionchain.com/network/validator-setup"
-      },
-      {
-        "text": "SDK",
-        "url": "https://docs.orbionchain.com/ecosystem/orbion-sdk-and-api"
-      },
-      {
-        "text": "Service Status",
-        "url": "https://status.orbionchain.com/"
-      }
-    ]
-  },
-  {
-    "title": "Apps & Integrations",
-    "links": [
-      {
-        "text": "Wallet Web",
-        "url": "https://wallet.orbionchain.com"
       },
       {
         "text": "Token Utility",
@@ -63,39 +57,6 @@
       {
         "text": "Monitoring Defi Market",
         "url": "https://orbion.finance/"
-      }
-    ]
-  },
-  {
-    "title": "Orbion Testnet Ecosystem",
-    "links": [
-      {
-        "text": "NFT Marketplace",
-        "url": "https://nftmarketplace.orbion.finance"
-      },
-      {
-        "text": "Orbion Fun",
-        "url": "https://testnet.orbionfun.com"
-      },
-      {
-        "text": "Orbion Locker",
-        "url": "https://testnetlocker.orbion.finance"
-      },
-      {
-        "text": "Orbion Portfolio",
-        "url": "https://web3.orbion.finance"
-      },
-      {
-        "text": "Orbion Staking (Coming Soon)",
-        "url": "#"
-      },
-      {
-        "text": "Orbion Bridge (Coming Soon)",
-        "url": "#"
-      },
-      {
-        "text": "Guide",
-        "url": "https://docs.orbionchain.com/ecosystem"
       }
     ]
   }
